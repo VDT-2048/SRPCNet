@@ -1,5 +1,7 @@
 # SRPCNet: Self-Reinforcing Perception Coordination Network for Seamless Steel Pipes Internal Surface Defect Detection
 #### Our paper was accepted by IEEE Transactions on Industrial Informatics (TII)!
+https://ieeexplore.ieee.org/document/10720461
+
 ![introduction.jpg](https://s2.loli.net/2024/10/10/QapHN2G6JTEiBRZ.jpg)
 ![SRPCNet.jpg](https://s2.loli.net/2024/10/10/HX7VA2MDkUR6Nsu.jpg)
 
@@ -14,5 +16,15 @@ The code and dataset are available at [here](https://pan.baidu.com/s/1zhWy0khnnW
 
 ## Citation
 ```
+@ARTICLE{10720461,
+  author={Chen, Hongshu and Song, Kechen and Cui, Wenqi and Zhang, Tianle and Yan, Yunhui and Li, Jun},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={SRPCNet: Self-Reinforcing Perception Coordination Network for Seamless Steel Pipes Internal Surface Defect Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Steel;Visualization;Testing;Surface treatment;Inspection;Welding;Training;Pipelines;Interference;Defect detection;Detection system;pipe internal surface dataset;salient object detection (SOD);seamless steel pipes (SSPs);surface defect detection},
+  doi={10.1109/TII.2024.3470895}}
 
 ```
