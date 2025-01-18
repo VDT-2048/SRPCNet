@@ -20,10 +20,10 @@ The code and dataset are available at [here](https://pan.baidu.com/s/1zhWy0khnnW
   author={Chen, Hongshu and Song, Kechen and Cui, Wenqi and Zhang, Tianle and Yan, Yunhui and Li, Jun},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={SRPCNet: Self-Reinforcing Perception Coordination Network for Seamless Steel Pipes Internal Surface Defect Detection}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-10},
+  year={2025},
+  volume={21},
+  number={1},
+  pages={950-959},
   keywords={Steel;Visualization;Testing;Surface treatment;Inspection;Welding;Training;Pipelines;Interference;Defect detection;Detection system;pipe internal surface dataset;salient object detection (SOD);seamless steel pipes (SSPs);surface defect detection},
   doi={10.1109/TII.2024.3470895}}
 
